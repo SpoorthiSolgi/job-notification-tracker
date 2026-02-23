@@ -1,108 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/javascript.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Design System | Job Notification App</title>
-    <meta name="description" content="A premium SaaS design system for professional job notification tracking." />
-  </head>
-  <body>
-    <div id="app" class="app-container">
-      <header class="top-bar">
-        <div class="top-bar__logo">Job Notification App</div>
-        <div class="top-bar__progress">STEP 01 / 04</div>
-        <div class="top-bar__status">NOT STARTED</div>
-      </header>
 
-      <div class="context-header">
-        <h1>Foundation & Design System</h1>
-        <p>Defining the core visual language for a calm and intentional user experience.</p>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Notification App</title>
+  <meta name="description" content="A premium SaaS for professional job notification tracking." />
+</head>
+
+<body>
+  <div id="app" class="app-container">
+    <header class="top-bar">
+      <a href="/" class="top-bar__logo" data-link>Job Notification App</a>
+
+      <nav class="nav-links">
+        <ul>
+          <li><a href="/dashboard" data-link>Dashboard</a></li>
+          <li><a href="/saved" data-link>Saved</a></li>
+          <li><a href="/digest" data-link>Digest</a></li>
+          <li><a href="/settings" data-link>Settings</a></li>
+          <li><a href="/proof" data-link>Proof</a></li>
+        </ul>
+      </nav>
+
+      <button class="hamburger" aria-label="Menu" id="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </header>
+
+    <nav class="mobile-nav" id="mobile-nav">
+      <a href="/dashboard" data-link>Dashboard</a>
+      <a href="/saved" data-link>Saved</a>
+      <a href="/digest" data-link>Digest</a>
+      <a href="/settings" data-link>Settings</a>
+      <a href="/proof" data-link>Proof</a>
+    </nav>
+
+    <main id="content" class="content-area">
+      <!-- Content will be injected here -->
+    </main>
+
+    <footer class="proof-footer">
+      <div class="checklist-item checked">
+        <span></span> UI BUILT
       </div>
+      <div class="checklist-item checked">
+        <span></span> NAVIGATION READY
+      </div>
+      <div class="checklist-item">
+        <span></span> LOGIC WORKING
+      </div>
+      <div class="checklist-item">
+        <span></span> DEPLOYED
+      </div>
+    </footer>
+  </div>
+  <script type="module" src="/src/main.js"></script>
+</body>
 
-      <main class="main-layout">
-        <section class="primary-workspace">
-          <div class="card">
-            <h3>Typography System</h3>
-            <p>Our typography uses a mix of Serif for confidence and Sans-serif for clarity. Headings use Lora, while body text uses Inter at 18px with a generous 1.7 line height.</p>
-            <div style="margin-top: var(--space-24)">
-              <h1 style="margin-bottom: 8px">Heading 1 - Serif</h1>
-              <h2 style="margin-bottom: 8px">Heading 2 - Serif</h2>
-              <h3 style="margin-bottom: 8px">Heading 3 - Serif</h3>
-              <p>Body text - Sans serif. The quick brown fox jumps over the lazy dog. This is intentional whitespace.</p>
-            </div>
-          </div>
-
-          <div class="card">
-            <h3>Color Palette</h3>
-            <p>A limited palette of four primary colors ensures focus and coherence.</p>
-            <div style="display: flex; gap: var(--space-16); margin-top: var(--space-24);">
-              <div style="text-align: center;">
-                <div style="width: 64px; height: 64px; background: #F7F6F3; border: 1px solid var(--color-border); border-radius: 4px;"></div>
-                <span style="font-size: 12px; font-weight: 600;">BG</span>
-              </div>
-              <div style="text-align: center;">
-                <div style="width: 64px; height: 64px; background: #111111; border-radius: 4px;"></div>
-                <span style="font-size: 12px; font-weight: 600;">TEXT</span>
-              </div>
-              <div style="text-align: center;">
-                <div style="width: 64px; height: 64px; background: #8B0000; border-radius: 4px;"></div>
-                <span style="font-size: 12px; font-weight: 600;">ACCENT</span>
-              </div>
-              <div style="text-align: center;">
-                <div style="width: 64px; height: 64px; background: #4A6741; border-radius: 4px;"></div>
-                <span style="font-size: 12px; font-weight: 600;">SUCCESS</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="card">
-            <h3>Form Components</h3>
-            <div class="input-group">
-              <label class="input-label">Email Address</label>
-              <input type="email" placeholder="e.g. name@company.com" />
-            </div>
-            <div style="display: flex; gap: var(--space-16);">
-              <button class="btn btn-primary">Primary Action</button>
-              <button class="btn btn-secondary">Secondary Action</button>
-            </div>
-          </div>
-        </section>
-
-        <aside class="secondary-panel">
-          <div class="card">
-            <h3>System Rationale</h3>
-            <p>This panel provides context and explanations for the current workspace actions.</p>
-            <div class="prompt-box">
-              git init
-              npm install
-              npm run dev
-            </div>
-          </div>
-          
-          <div class="card">
-            <h3>Interaction Rules</h3>
-            <p>All transitions are capped at 200ms with an ease-in-out curve. No bounce. No noise.</p>
-            <button class="btn btn-secondary" style="width: 100%;">Test Transition</button>
-          </div>
-        </aside>
-      </main>
-
-      <footer class="proof-footer">
-        <div class="checklist-item checked">
-          <span></span> UI BUILT
-        </div>
-        <div class="checklist-item">
-          <span></span> LOGIC WORKING
-        </div>
-        <div class="checklist-item">
-          <span></span> TEST PASSED
-        </div>
-        <div class="checklist-item">
-          <span></span> DEPLOYED
-        </div>
-      </footer>
-    </div>
-    <script type="module" src="/src/main.js"></script>
-  </body>
 </html>
