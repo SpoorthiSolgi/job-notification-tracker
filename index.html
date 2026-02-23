@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Notification App</title>
+  <meta name="description" content="A premium SaaS for professional job notification tracking." />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+
+<body>
+  <div id="app" class="app-container">
+    <header class="top-bar">
+      <a href="/" class="top-bar__logo" data-link>Job Notification App</a>
+
+      <nav class="nav-links">
+        <ul>
+          <li><a href="/dashboard" data-link>Dashboard</a></li>
+          <li><a href="/saved" data-link>Saved</a></li>
+          <li><a href="/digest" data-link>Digest</a></li>
+          <li><a href="/settings" data-link>Settings</a></li>
+          <li><a href="/proof" data-link>Proof</a></li>
+        </ul>
+      </nav>
+
+      <button class="hamburger" aria-label="Menu" id="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </header>
+
+    <nav class="mobile-nav" id="mobile-nav" style="display: none;">
+      <a href="/dashboard" data-link>Dashboard</a>
+      <a href="/saved" data-link>Saved</a>
+      <a href="/digest" data-link>Digest</a>
+      <a href="/settings" data-link>Settings</a>
+      <a href="/proof" data-link>Proof</a>
+    </nav>
+
+    <main id="content" class="content-area">
+      <!-- Content will be injected here -->
+    </main>
+
+    <footer class="proof-footer">
+      <div class="checklist-item checked">
+        <span></span> UI BUILT
+      </div>
+      <div class="checklist-item checked">
+        <span></span> NAVIGATION READY
+      </div>
+      <div class="checklist-item">
+        <span></span> LOGIC WORKING
+      </div>
+      <div class="checklist-item">
+        <span></span> DEPLOYED
+      </div>
+    </footer>
+  </div>
+  <div id="modal-container"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
