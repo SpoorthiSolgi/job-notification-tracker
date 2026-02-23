@@ -10,7 +10,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "₹40k/month Internship",
-        applyUrl: "https://amazon.jobs/en/jobs/1",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Amazon%20SDE%20Intern%20jobs",
         description: "Join Amazon's development team to build scalable services. You will work alongside senior engineers to design, develop, and test software components that impact millions of customers."
     },
     {
@@ -24,7 +24,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 1,
         salaryRange: "3.5–4.5 LPA",
-        applyUrl: "https://www.tcs.com/careers/graduate-trainee",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=TCS%20Graduate%20Engineer%20Trainee%20jobs",
         description: "Start your professional journey with TCS. This program is designed to transform fresh graduates into high-performing software professionals through rigorous training and project exposure."
     },
     {
@@ -38,7 +38,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 3,
         salaryRange: "10–14 LPA",
-        applyUrl: "https://careers.swiggy.com/jobs/03",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Swiggy%20Junior%20Backend%20Developer%20jobs",
         description: "Work on the backbone of Swiggy's delivery engine. You'll be responsible for building high-performance APIs and microservices that power real-time order tracking and logistics."
     },
     {
@@ -52,7 +52,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 0,
         salaryRange: "₹25k–₹35k/month Internship",
-        applyUrl: "https://razorpay.com/jobs/intern",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Razorpay%20Frontend%20Intern%20jobs",
         description: "Help us build the most elegant payment checkout experience. We are looking for interns who are passionate about UI/UX and want to learn how to build robust React components at scale."
     },
     {
@@ -66,7 +66,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 5,
         salaryRange: "3–4 LPA",
-        applyUrl: "https://infosys.com/careers/qa",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Infosys%20QA%20Intern%20jobs",
         description: "Gain experience in automated and manual testing. You will be part of the quality assurance team, helping ensure our enterprise software meets the highest standards of reliability."
     },
     {
@@ -80,7 +80,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 4,
         salaryRange: "₹30k/month Internship",
-        applyUrl: "https://flipkartcareers.com/data-analyst",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Flipkart%20Data%20Analyst%20Intern%20jobs",
         description: "Dive deep into e-commerce data. You will help extract insights that drive business decisions, from supply chain optimization to customer behavior analysis."
     },
     {
@@ -94,7 +94,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 6,
         salaryRange: "5–8 LPA",
-        applyUrl: "https://accenture.com/careers/java",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Accenture%20Java%20Developer%20%280-1%29%20jobs",
         description: "Develop enterprise-grade applications for global clients. We need developers who understand the Java ecosystem and are ready to contribute to large-scale digital transformations."
     },
     {
@@ -108,7 +108,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 2,
         salaryRange: "6–9 LPA",
-        applyUrl: "https://freshworks.com/careers/python",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Freshworks%20Python%20Developer%20%28Fresher%29%20jobs",
         description: "Build SaaS products that people love. As a fresher, you will be mentored by some of the best engineers to write clean, maintainable Python code for our CRM products."
     },
     {
@@ -122,7 +122,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "12–18 LPA",
-        applyUrl: "https://zomato.com/careers/react",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Zomato%20React%20Developer%20%281-3%29%20jobs",
         description: "Help us craft the future of food delivery. We are looking for experienced React developers who can optimize performance and create stunning interfaces for our web platform."
     },
     {
@@ -136,7 +136,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 0,
         salaryRange: "18–25 LPA",
-        applyUrl: "https://cred.club/careers/fullstack",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=CRED%20Full%20Stack%20Developer%20jobs",
         description: "At CRED, we build experiences for the top 1%. You will work on full-stack features that require extreme attention to detail and a passion for high-quality engineering."
     },
     {
@@ -150,7 +150,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 7,
         salaryRange: "4–6 LPA",
-        applyUrl: "https://wipro.com/careers/se",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Wipro%20System%20Engineer%20jobs",
         description: "Maintain and optimize critical infrastructure. You'll be involved in server management, automation scripts, and ensuring 99.9% uptime for our client projects."
     },
     {
@@ -164,7 +164,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 3,
         salaryRange: "7–11 LPA",
-        applyUrl: "https://capgemini.com/careers/associate",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Capgemini%20Associate%20Consultant%20jobs",
         description: "Bridge the gap between technology and business. You will consult with clients on cloud migration strategies and help implement automated CI/CD pipelines."
     },
     {
@@ -178,7 +178,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 8,
         salaryRange: "6–9 LPA",
-        applyUrl: "https://cognizant.com/careers/sd",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Cognizant%20Software%20Developer%20jobs",
         description: "Develop robust financial applications. We are looking for developers with strong analytical skills to work on complex data-driven modules for our banking clients."
     },
     {
@@ -192,7 +192,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "12–16 LPA",
-        applyUrl: "https://amazon.jobs/en/jobs/14",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=AWS%20Cloud%20Support%20Associate%20jobs",
         description: "Help customers move to the cloud. You will provide technical support and guidance to AWS customers, solving complex infrastructure and connectivity issues."
     },
     {
@@ -206,7 +206,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "10–15 LPA",
-        applyUrl: "https://phonepe.com/careers/ui",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=PhonePe%20UI%20Designer%20jobs",
         description: "Design the most used payment app in India. You'll collaborate with product managers and engineers to create intuitive and high-converting user interfaces."
     },
     {
@@ -220,7 +220,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 4,
         salaryRange: "15–20 LPA",
-        applyUrl: "https://paytm.com/careers/backend",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Paytm%20Backend%20Engineer%20jobs",
         description: "Handle millions of transactions per second. We use Go and Kafka to manage high-throughput event streams and ensure every payment is processed instantly."
     },
     {
@@ -234,7 +234,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 0,
         salaryRange: "12–18 LPA",
-        applyUrl: "https://juspay.in/careers/fe",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Juspay%20Frontend%20Engineer%20jobs",
         description: "Push the boundaries of web development. We use functional programming to build highly reliable payment interfaces. Perfect for those who love deep tech."
     },
     {
@@ -248,7 +248,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 5,
         salaryRange: "₹40k/month Internship",
-        applyUrl: "https://zepto.com/careers/pm",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Zepto%20Product%20Manager%20Intern%20jobs",
         description: "Shape the future of 10-minute delivery. You'll help identify user pain points and work with cross-functional teams to launch features that improve delivery speed."
     },
     {
@@ -262,7 +262,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 3,
         salaryRange: "8–13 LPA",
-        applyUrl: "https://zoho.com/careers/devops",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Zoho%20DevOps%20Engineer%20jobs",
         description: "Manage a global SaaS infrastructure. You'll be responsible for automating deployments and ensuring the scalability of Zoho's extensive product suite."
     },
     {
@@ -276,7 +276,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 9,
         salaryRange: "9–14 LPA",
-        applyUrl: "https://delhivery.com/careers/qa",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Delhivery%20QA%20Automation%20Engineer%20jobs",
         description: "Ensure the reliability of India's largest logistics platform. You'll build automation frameworks to test our complex warehouse and delivery tracking systems."
     },
     {
@@ -290,7 +290,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "9–12 LPA",
-        applyUrl: "https://oracle.com/jobs/21",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Oracle%20Junior%20Java%20Developer%20jobs",
         description: "Contribute to the world's leading database and cloud services. We need developers who are passionate about core Java and backend systems."
     },
     {
@@ -304,7 +304,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "18–24 LPA",
-        applyUrl: "https://flipkart.com/jobs/22",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Flipkart%20SDE%201%20jobs",
         description: "Build features for millions of shoppers. You'll own end-to-end services and contribute to the evolution of our e-commerce platform."
     },
     {
@@ -318,7 +318,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 5,
         salaryRange: "12–16 LPA",
-        applyUrl: "https://sap.com/jobs/23",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=SAP%20Software%20Engineer%20jobs",
         description: "Work on enterprise solutions that run the world. You'll be part of a global team developing innovative software for business processes."
     },
     {
@@ -332,7 +332,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 0,
         salaryRange: "14–20 LPA",
-        applyUrl: "https://blinkit.com/jobs/24",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Blinkit%20Frontend%20Developer%20jobs",
         description: "Create fast and responsive web experiences for instant commerce. Focus on performance and smooth user interactions."
     },
     {
@@ -346,7 +346,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 4,
         salaryRange: "15–22 LPA",
-        applyUrl: "https://ola.com/jobs/25",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Ola%20Data%20Engineer%20jobs",
         description: "Build robust data pipelines for mobility solutions. You'll handle massive datasets to drive real-time ride-matching and pricing."
     },
     {
@@ -360,7 +360,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 3,
         salaryRange: "₹20k–₹35k/month Internship",
-        applyUrl: "https://meesho.com/jobs/26",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Meesho%20Mobile%20Developer%20Intern%20jobs",
         description: "Help us build India's largest social commerce platform. Learn how to build cross-platform mobile apps that work on low-end devices."
     },
     {
@@ -374,7 +374,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 6,
         salaryRange: "20–30 LPA",
-        applyUrl: "https://crowdstrike.com/jobs/27",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=CrowdStrike%20India%20Security%20Researcher%20jobs",
         description: "Protect global organizations from cyber threats. Research vulnerabilities and develop detection signatures for our security platform."
     },
     {
@@ -388,7 +388,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 2,
         salaryRange: "₹35k/month Internship",
-        applyUrl: "https://fractal.ai/jobs/28",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Fractal%20Analytics%20Machine%20Learning%20Intern%20jobs",
         description: "Apply AI to real-world business problems. You'll work on predictive modeling and natural language processing projects for Fortune 500 clients."
     },
     {
@@ -402,7 +402,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 8,
         salaryRange: "4–6 LPA",
-        applyUrl: "https://hcltech.com/jobs/29",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=HCLTech%20Junior%20QA%20Engineer%20jobs",
         description: "Join our robust testing team. You will be responsible for executing test cases and reporting defects for enterprise applications."
     },
     {
@@ -416,7 +416,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "30–40 LPA",
-        applyUrl: "https://atlassian.com/jobs/30",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Atlassian%20India%20Graduate%20Engineer%20jobs",
         description: "Yes, you read that right. Join Atlassian's high-growth India team and work on products like Jira and Confluence from day one."
     },
     {
@@ -430,7 +430,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "20–28 LPA",
-        applyUrl: "https://intuit.com/jobs/31",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Intuit%20Software%20Engineer%20I%20jobs",
         description: "Power prosperity for small businesses. Work on financial platforms like QuickBooks and TurboTax using modern tech stacks."
     },
     {
@@ -444,7 +444,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 4,
         salaryRange: "12–18 LPA",
-        applyUrl: "https://shiprocket.io/jobs/32",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Shiprocket%20Backend%20Engineer%20%28Nodejs%29%20jobs",
         description: "Scale India's leading shipping platform. You'll build APIs that integrate with hundreds of couriers and e-commerce channels."
     },
     {
@@ -458,7 +458,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 5,
         salaryRange: "₹25k/month Internship",
-        applyUrl: "https://spinny.com/jobs/33",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Spinny%20SDE%20Intern%20%28Frontend%29%20jobs",
         description: "Help us revolutionize the used-car market. You'll build lightning-fast web experiences for buyers and sellers."
     },
     {
@@ -472,7 +472,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 7,
         salaryRange: "8–12 LPA",
-        applyUrl: "https://publicissapient.com/jobs/34",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Publicis%20Sapient%20Associate%20Software%20Engineer%20jobs",
         description: "Consult on digital transformation. Work at the intersection of marketing and technology for global brands."
     },
     {
@@ -486,7 +486,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 10,
         salaryRange: "₹15k–₹25k/month Internship",
-        applyUrl: "https://vvdntech.com/jobs/35",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=VVDN%20Technologies%20Embedded%20Systems%20Intern%20jobs",
         description: "Get hands-on with hardware. Work on IoT, networking, and wireless solutions in our state-of-the-art labs."
     },
     {
@@ -500,7 +500,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 3,
         salaryRange: "15–20 LPA",
-        applyUrl: "https://myjar.app/jobs/36",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Jar%20Flutter%20Developer%20jobs",
         description: "Incentivize savings for billions. Build a beautiful and responsive mobile experience for our gold-saving platform."
     },
     {
@@ -514,7 +514,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "10–16 LPA",
-        applyUrl: "https://myntra.com/jobs/37",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Myntra%20Data%20Analyst%20jobs",
         description: "Analyze fashion trends. Use data to drive merchandising and marketing strategies for India's biggest fashion platform."
     },
     {
@@ -528,7 +528,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 6,
         salaryRange: "11–17 LPA",
-        applyUrl: "https://ibm.com/jobs/38",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=IBM%20India%20Cloud%20Infrastructure%20Engineer%20jobs",
         description: "Manage hybrid cloud environments. Work with IBM Cloud and open-source tools to build resilient infrastructures."
     },
     {
@@ -542,7 +542,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 9,
         salaryRange: "7–12 LPA",
-        applyUrl: "https://indiamart.com/jobs/39",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Indiamart%20PHP%20Developer%20jobs",
         description: "Build B2B marketplaces. Help connect millions of buyers and sellers using robust PHP-based platforms."
     },
     {
@@ -556,7 +556,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 4,
         salaryRange: "18–25 LPA",
-        applyUrl: "https://arista.com/jobs/40",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Arista%20Networks%20Python%20SDE%20I%20jobs",
         description: "Develop network management software. You'll write high-performance Python code for SDN and automation."
     },
     {
@@ -570,7 +570,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "25–35 LPA",
-        applyUrl: "https://healthifyme.com/jobs/41",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=HealthifyMe%20Lead%20Frontend%20Developer%20jobs",
         description: "Lead our web team to build world-class health platforms. We need someone who can mentor and scale engineering excellence."
     },
     {
@@ -584,7 +584,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 0,
         salaryRange: "40–60 LPA",
-        applyUrl: "https://google.com/jobs/42",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Google%20India%20Site%20Reliability%20Engineer%20jobs",
         description: "Keeping Google running smoothly. You'll apply software engineering to operations at a scale seen nowhere else."
     },
     {
@@ -598,7 +598,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 3,
         salaryRange: "18–26 LPA",
-        applyUrl: "https://cult.fit/jobs/43",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Cure.fit%20Mobile%20Engineer%20%28Android%29%20jobs",
         description: "Build immersive fitness experiences. Help users track workouts and stay healthy with our popular mobile app."
     },
     {
@@ -612,7 +612,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "16–24 LPA",
-        applyUrl: "https://urbancompany.com/jobs/44",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Urban%20Company%20React%20Native%20Developer%20jobs",
         description: "Craft the partner app that powers Urban Company. Optimize for offline capabilities and low-bandwidth environments."
     },
     {
@@ -626,7 +626,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 8,
         salaryRange: "22–32 LPA",
-        applyUrl: "https://persistent.com/jobs/45",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Persistent%20Systems%20Technical%20Architect%20jobs",
         description: "Design highly scalable enterprise software. We need architects who can navigate complex requirements and guide dev teams."
     },
     {
@@ -640,7 +640,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 5,
         salaryRange: "6–9 LPA",
-        applyUrl: "https://mu-sigma.com/jobs/46",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Mu%20Sigma%20Junior%20Data%20Scientist%20jobs",
         description: "Solve complex decision science problems. You'll work at the intersection of data, tech, and business strategy."
     },
     {
@@ -654,7 +654,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 4,
         salaryRange: "25–35 LPA",
-        applyUrl: "https://nvidia.com/jobs/47",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=NVIDIA%20Software%20Engineer%20II%20jobs",
         description: "Accelerate the world's most demanding workloads. Work on GPU infrastructure and AI-driven graphics."
     },
     {
@@ -668,7 +668,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "24–34 LPA",
-        applyUrl: "https://browserstack.com/jobs/48",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=BrowserStack%20Senior%20QA%20Automation%20jobs",
         description: "Build testing tools for testers. You'll help us scale our cloud infrastructure to support millions of tests daily."
     },
     {
@@ -682,7 +682,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "₹30k/month Internship",
-        applyUrl: "https://zerodha.com/jobs/49",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Zerodha%20UI/UX%20Intern%20jobs",
         description: "Design financial tools for the masses. Help us keep Kite and Coin minimal, fast, and remarkably easy to use."
     },
     {
@@ -696,7 +696,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 3,
         salaryRange: "10–15 LPA",
-        applyUrl: "https://upstox.com/jobs/50",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Upstox%20Django%20Developer%20%280-1%29%20jobs",
         description: "Build high-throughput trading backends. We use Python and Django to power our lightning-fast trading platforms."
     },
     {
@@ -710,7 +710,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 5,
         salaryRange: "35–50 LPA",
-        applyUrl: "https://gojuice.com/jobs/51",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Gojuice%20Staff%20Engineer%20%28Mobile%29%20jobs",
         description: "Lead the mobile strategy for our consumer app. We need a visionary who can balance performance with rich features."
     },
     {
@@ -724,7 +724,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 7,
         salaryRange: "12–18 LPA",
-        applyUrl: "https://dunzo.com/jobs/52",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Dunzo%20Product%20Analyst%20jobs",
         description: "Optimize logistics with data. You'll help Dunzo achieve better delivery times and smarter demand forecasting."
     },
     {
@@ -738,7 +738,7 @@ export const jobs = [
         source: "Naukri",
         postedDaysAgo: 9,
         salaryRange: "5–8 LPA",
-        applyUrl: "https://wipro.com/jobs/53",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Wipro%20Information%20Security%20Analyst%20jobs",
         description: "Guard client data against emerging threats. You will be part of our 24/7 Security Operations Center (SOC)."
     },
     {
@@ -752,7 +752,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 10,
         salaryRange: "18–28 LPA",
-        applyUrl: "https://zebpay.com/jobs/54",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=ZebPay%20Rust%20Developer%20jobs",
         description: "Build secure and fast crypto-exchange backends. Rust experience is mandatory as we prioritize speed and memory safety."
     },
     {
@@ -766,7 +766,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "9–13 LPA",
-        applyUrl: "https://inmobi.com/jobs/55",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=InMobi%20Junior%20Frontend%20Engineer%20jobs",
         description: "Work on ad-tech dashboards that handle massive scale. Learn how to build high-performance data visualizations."
     },
     {
@@ -780,7 +780,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 4,
         salaryRange: "12–18 LPA",
-        applyUrl: "https://tekion.com/jobs/56",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Tekion%20DevOps%20Engineer%20I%20jobs",
         description: "Help us modernize the automotive retail industry. You'll automate infrastructure for our global enterprise cloud."
     },
     {
@@ -794,7 +794,7 @@ export const jobs = [
         source: "Indeed",
         postedDaysAgo: 6,
         salaryRange: "15–20 LPA",
-        applyUrl: "https://atlassian.com/jobs/57",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Atlassian%20Support%20Engineer%20jobs",
         description: "Help engineers at other companies succeed with Atlassian tools. Deep dive into Jira logs and solve complex configuration issues."
     },
     {
@@ -808,7 +808,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 0,
         salaryRange: "₹45k/month Internship",
-        applyUrl: "https://postman.com/jobs/58",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Postman%20AI%20Engineer%20Intern%20jobs",
         description: "Help us integrate AI into the API lifecycle. You'll work on cutting-edge LLM features to help developers build APIs faster."
     },
     {
@@ -822,7 +822,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 1,
         salaryRange: "₹20k–₹30k/month Internship",
-        applyUrl: "https://growthschool.io/jobs/59",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=GrowthSchool%20Backend%20Intern%20%28Go%29%20jobs",
         description: "Help us scale the next-gen ed-tech platform. You will build concurrent systems in Go to handle thousands of live learners."
     },
     {
@@ -836,7 +836,7 @@ export const jobs = [
         source: "LinkedIn",
         postedDaysAgo: 2,
         salaryRange: "20–30 LPA",
-        applyUrl: "https://sliceit.com/jobs/60",
+        applyUrl: "https://www.linkedin.com/jobs/search/?keywords=Slice%20Full%20Stack%20Engineer%20jobs",
         description: "Disrupt the credit card industry. Build full-stack features that make credit simpler and more accessible in India."
     }
 ];
