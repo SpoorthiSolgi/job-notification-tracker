@@ -269,18 +269,21 @@ p {
     align-items: center;
     gap: var(--space-8);
     font-size: 14px;
-    color: var(--color-border-strong);
+    color: var(--color-text);
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 700;
+    letter-spacing: 0.05em;
 }
 
 .checklist-item span::before {
     content: '□';
+    font-size: 20px;
 }
 
 .checklist-item.checked span::before {
     content: '■';
     color: var(--color-text);
+    font-size: 20px;
 }
 
 /* Components */
